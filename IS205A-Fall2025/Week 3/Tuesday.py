@@ -41,3 +41,4 @@ my_share = total_bill * .2 # I pay 20%
 insurance = total_bill * .8 # insurance pays 80%
 
 print(my_share)
+
